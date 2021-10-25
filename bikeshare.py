@@ -170,11 +170,11 @@ def main():
         df = load_data(city, month, day)
         row = 0
         raw_data = input('Would you like to see raw data? '
-                         'Enter (yes / no) : ').lower()
-        while raw_data == 'yes':
+                         'Enter (y / n) : ').lower()
+        while raw_data == 'y':
             print(df.iloc[row:row + 5].to_string())
             raw_data = input('Would you like to see more '
-                             'raw data? Enter (yes / no) : ').lower()
+                             'raw data? Enter (y / n) : ').lower()
             row += 5
 
         time_stats(df)
