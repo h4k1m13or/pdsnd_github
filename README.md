@@ -11,7 +11,7 @@ You will use this template to copy and paste the git commands you used to comple
 
 ### Files used
 1.The following file contains necessary commands used to do tasks:
-  *Git Commands Documentation.pdf
+    *Git Commands Documentation.pdf
 
 ### Credits
 * [Git documentation.](https://git-scm.com/doc)
