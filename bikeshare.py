@@ -22,7 +22,7 @@ def get_filters():
         city = input("Which city would you like to filter by?(new york city, chicago or washington )\n")
         city = city.lower()  # avoid case sensitive
 
-        if city not in ("new york city", "chicago", "washington"):
+        if city.lower() not in ("new york city", "chicago", "washington"):
             print("Wrong input! please try again")
             continue
         else:
