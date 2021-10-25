@@ -7,7 +7,7 @@
 Github Project: Git Commands
 
 ### Description
-Describe what your project is about and what it does
+You will use this template to copy and paste the git commands you used to complete all tasks on your local and remote git repository for this project. This file will serve as your submission for the GitHub project.
 
 ### Files used
 Include the files used
