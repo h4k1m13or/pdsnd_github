@@ -1,5 +1,5 @@
 ### Date created
-10/25/2021
+Oct 25, 2021
 
 ### Project Title
 Github Project: Git Commands
